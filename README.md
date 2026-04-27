@@ -14,10 +14,31 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+
+### 🎯 Learning & Exploring
+
+![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-4CAF50?style=flat&logo=python&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-0066CC?style=flat&logo=fullstack&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## � Featured Projects
+
+| Project        | Description                              | Tech Stack                  |
+| -------------- | ---------------------------------------- | --------------------------- |
+| [Project 1](#) | Brief description of your first project  | Python, Flask, MySQL        |
+| [Project 2](#) | Brief description of your second project | JavaScript, React, Supabase |
+| [Project 3](#) | Brief description of your third project  | HTML, CSS, JavaScript       |
+
+> 👉 **More projects available on [my GitHub](https://github.com/mohan-prasad-d)**
+
+---
+
+## �📊 GitHub Stats
 
 ![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan-prasad-d&show_icons=true&theme=tokyonight)
 
