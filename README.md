@@ -119,7 +119,6 @@ Intelligent attendance management system with real-time monitoring and comprehen
 
 </div>
 
----
 
 ## 🏆 GitHub Achievements
 
