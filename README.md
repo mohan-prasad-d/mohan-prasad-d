@@ -70,11 +70,7 @@ An intelligent attendance management system that streamlines tracking and report
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mohan-prasad-d&theme=tokyonight)
 
----
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=mohan-prasad-d&theme=onedark)
 
 ---
 
