@@ -42,7 +42,7 @@
 
 ## 💼 Featured Projects
 
-<div align="center">
+
 
 ### 🎵 Melos Music Player
 **Modern Music Streaming App**
@@ -94,8 +94,6 @@ Intelligent attendance management system with real-time monitoring and comprehen
 - 📊 Reports & Analytics
 - 🔔 Real-time Notifications
 - 📱 Mobile Access
-
-</div>
 
 ---
 
