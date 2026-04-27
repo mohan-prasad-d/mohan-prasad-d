@@ -28,13 +28,33 @@
 
 ## � Featured Projects
 
-| Project        | Description                              | Tech Stack                  |
-| -------------- | ---------------------------------------- | --------------------------- |
-| [Project 1](#) | Brief description of your first project  | Python, Flask, MySQL        |
-| [Project 2](#) | Brief description of your second project | JavaScript, React, Supabase |
-| [Project 3](#) | Brief description of your third project  | HTML, CSS, JavaScript       |
+### 🎵 [Melos - Music Streaming Web Player](https://github.com/mohan-prasad-d/Melos-Music-Player)
 
-> 👉 **More projects available on [my GitHub](https://github.com/mohan-prasad-d)**
+A modern React-based music streaming application with advanced playlist management, search functionality, and playback controls. Features JioSaavn API integration with YouTube fallback, local file support, and persistent local storage.
+
+**Key Features:** 🎧 Music Playback • 📝 Playlist Management • 🔍 Smart Search • ❤️ Favorites • 🎬 YouTube Integration • 📱 Mobile Responsive
+
+**Tech Stack:** `React 18` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui` `JavaScript`
+
+---
+
+### 💼 [CRM App](https://github.com/mohan-prasad-d/Crm-app)
+
+A comprehensive Customer Relationship Management application designed for managing customer data, interactions, and business relationships efficiently. Built with modern web technologies for a seamless user experience.
+
+**Key Features:** 👥 Customer Management • 📊 Data Analytics • 📧 Communication Tracking • 📈 Sales Pipeline
+
+**Tech Stack:** `JavaScript` `React` `MySQL` `Node.js`
+
+---
+
+### 📋 [Attendance Project](https://github.com/mohan-prasad-d/Attendence-project)
+
+An intelligent attendance management system that streamlines tracking and reporting of attendance records. Provides real-time monitoring and analytics for organizations.
+
+**Key Features:** ✅ Attendance Tracking • 📊 Reports & Analytics • 🔔 Real-time Notifications • 📱 Mobile Access
+
+**Tech Stack:** `Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript`
 
 ---
 
