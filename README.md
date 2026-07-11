@@ -130,11 +130,11 @@
 
 ---
 
-## ⭐ My Starred Repositories
+## ⭐ My Top Starred Repository
 
 <div align="center">
 
-[![Starred Repositories](https://github-readme-stats.vercel.app/api/pin/?username=mohan-prasad-d&repo=Melos-Music-Player&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/mohan-prasad-d?tab=stars)
+[![Starred Repositories](https://github-readme-stats.vercel.app/api/pin/?username=mohan-prasad-d&repo=Melos-Music-Player&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/mohan-prasad-d/Melos-Music-Player)
 
 </div>
 
