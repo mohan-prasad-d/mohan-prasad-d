@@ -102,9 +102,9 @@
 
 <div align="center">
 
-![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan-prasad-d&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Mohan's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mohan-prasad-d&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-prasad-d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohan-prasad-d&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -124,17 +124,17 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mohan-prasad-d&theme=tokyonight&no-frame=true&no-bg=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohan-prasad-d&theme=tokyonight&no-frame=true&no-bg=true)
 
 </div>
 
 ---
 
-## ⭐ My Top Starred Repository
+## ⭐ My Top Featured Repository
 
 <div align="center">
 
-[![Starred Repositories](https://github-readme-stats.vercel.app/api/pin/?username=mohan-prasad-d&repo=Melos-Music-Player&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/mohan-prasad-d/Melos-Music-Player)
+[![Melos Music Player](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mohan-prasad-d&repo=Melos-Music-Player&theme=tokyonight&hide_border=true)](https://github.com/mohan-prasad-d/Melos-Music-Player)
 
 </div>
 
