@@ -40,6 +40,18 @@
 
 ---
 
+## 👥 Student Community Initiative
+
+### 🚀 Skill Developer Community
+> The official collaborative space for our class students to build projects, learn industry-standard version control workflows, review peer code, and systematically level up technical skills together.
+
+*   **Core Goal:** Bridge the gap between academic learning and industry standards.
+*   **Current Focus:** A dedicated learning path focused entirely on facilitating knowledge sharing among members, helping everyone grasp core concepts thoroughly, and providing structured opportunities to develop essential IT technical skills together.
+*   **Methodology:** Corporate problem-solving patterns (Understand $\rightarrow$ Plan $\rightarrow$ Code $\rightarrow$ Optimize).
+*   **Links:** [🔗 Visit & Collaborate on the Repo](https://github.com/mohan-prasad-d/Skill-Developer-community)
+
+---
+
 ## 💼 Featured Projects
 
 ### 🌟 Rathika Elegance (My First Freelance Project)
@@ -102,9 +114,9 @@
 
 <div align="center">
 
-![Mohan's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mohan-prasad-d&show_icons=true&theme=tokyonight&hide_border=true)
+![Mohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohan-prasad-d&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
-![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohan-prasad-d&layout=compact&theme=tokyonight&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-prasad-d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -124,7 +136,7 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohan-prasad-d&theme=tokyonight&no-frame=true&no-bg=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohan-prasad-d&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
 
 </div>
 
@@ -134,7 +146,7 @@
 
 <div align="center">
 
-[![Melos Music Player](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mohan-prasad-d&repo=Melos-Music-Player&theme=tokyonight&hide_border=true)](https://github.com/mohan-prasad-d/Melos-Music-Player)
+[![Melos Music Player](https://github-readme-stats.vercel.app/api/pin/?username=mohan-prasad-d&repo=Melos-Music-Player&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/mohan-prasad-d/Melos-Music-Player)
 
 </div>
 
