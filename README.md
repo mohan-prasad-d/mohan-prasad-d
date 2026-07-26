@@ -1,192 +1,143 @@
-# Hi there, I'm Mohan 👋
-
 <div align="center">
-  
-🚀 **Information Technology Engineering Student**  
-💡 Passionate developer eager to grow into a professional.  
-💡 I believe mistakes are stepping stones to success, and I'm excited to share my journey with you!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+innovative+solutions;Learning+new+technologies;Growing+as+a+developer)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8993ea,50:9694fa,100:6ee2f5&height=6&section=header" width="100%">
+
+<h1>Hi, I'm Mohan Prasad 👋</h1>
+<h3>Information Technology Engineering Student</h3>
+
+<a href="https://www.linkedin.com/in/mohan-prasad-d-701931377">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:mohanprasadd2020@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://wa.me/919894876599">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+<img src="https://komarev.com/ghpvc/?username=mohan-prasad-d&style=for-the-badge&color=6a4fea&label=PROFILE+VIEWS">
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8993EA&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Building+innovative+solutions;Learning+new+technologies;Growing+as+a+developer" alt="Typing SVG">
+</a>
 
 </div>
 
----
+<br>
 
-## 🛠 Tech Stack
+## 🖥️ whoami
+
+<div align="center">
+  <img src="./assets/whoami-ironman.svg" alt="whoami" width="100%">
+</div>
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="./assets/techstack-thor.svg" alt="tech stack" width="100%">
+</div>
+
+<br>
+
+## 💼 Experience & Initiatives
+
+<div align="center">
+  <img src="./assets/experience-timeline.svg" alt="experience timeline" width="100%">
+</div>
+
+<br>
+
+<details open>
+<summary><b>🟡 Lead & Founder — Skill Developer Community</b> &nbsp;<sub>Student Initiative</sub></summary>
+<br>
+
+The official collaborative space for our class students to build projects, learn industry-standard version control workflows, review peer code, and systematically level up technical skills together.
+
+`Git` `GitHub` `Open Source` `Team Collaboration` `Project Architecture`
+</details>
+
+<details>
+<summary><b>🔵 Freelance Developer — Rathika Elegance</b> &nbsp;<sub>Freelance Contract</sub></summary>
+<br>
+
+Designed and deployed a premium client solution focused on digital workflows, custom layout structural presentation, and highly responsive user interfaces.
+
+`TypeScript` `Modern CSS` `Vite` `Frontend Design`
+</details>
+
+<details>
+<summary><b>🔵 Active Community Contributor — PyExpo2K26 & AtelierTechWorks</b></summary>
+<br>
+
+Actively collaborating within student community spaces to bridge the gap between academic learning and industry standards through open-source contributions.
+
+`Python` `Community Building` `Version Control`
+</details>
+
+**🎓 B.E. Information Technology Engineering**  
+**💡 Philosophy:** *"I believe mistakes are stepping stones to success, and I'm excited to share my journey with you!"*
+
+<br>
+
+## 🎨 Featured Projects
+
+| | | |
+|---|---|---|
+| 🎵 **[Melos Music Player](https://github.com/mohan-prasad-d/Melos-Music-Player)** | Modern Music Streaming App with advanced playback, playlist management, smart search, and YouTube Integration. | `React 18` `TypeScript` `Tailwind CSS` `Vite` |
+| 🤖 **[Plant Disease Detector](https://github.com/mohan-prasad-d/Plant-disease-detector--AI)** | Intelligent computer-vision system capable of diagnosing crop and plant health risks automatically. | `Python` `Machine Learning` `Computer Vision` |
+| 🌟 **[Rathika Elegance](https://github.com/mohan-prasad-d/Rathika_Elegance_)** | Premium client freelance landing ecosystem designed to streamline digital workflows and responsive presentation. | `TypeScript` `Modern CSS Frameworks` `Vite` |
+| 💼 **[CRM App](https://github.com/mohan-prasad-d/Crm-app)** | Efficient Customer Relationship Management System to track business workflows and pipeline analytics. | `React` `JavaScript` `MySQL` `Node.js` |
+| 📋 **[Attendance System](https://github.com/mohan-prasad-d/Attendence-project)** | Smart Tracking & Analytics dashboard for institutional management featuring real-time automated reports. | `Flask` `Python` `MySQL` `HTML/CSS/JS` |
+
+<br>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-prasad-d&theme=tokyonight&hide_border=true&border_radius=12&short_numbers=true" alt="GitHub Streak Stats"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan-prasad-d&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
 </div>
 
-### 🎯 Learning & Exploring
+<br>
+
+## 🧊 3D Contribution Graph
 
 <div align="center">
 
-![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-4CAF50?style=for-the-badge&logo=python&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-0066CC?style=for-the-badge&logo=fullstack&logoColor=white)
+<img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph">
 
 </div>
 
----
+<br>
 
-## 👥 Student Community Initiative
-
-### 🚀 Skill Developer Community
-> The official collaborative space for our class students to build projects, learn industry-standard version control workflows, review peer code, and systematically level up technical skills together.
-
-*   **Core Goal:** Bridge the gap between academic learning and industry standards.
-*   **Current Focus:** A dedicated learning path focused entirely on facilitating knowledge sharing among members, helping everyone grasp core concepts thoroughly, and providing structured opportunities to develop essential IT technical skills together.
-*   **Methodology:** Corporate problem-solving patterns (Understand $\rightarrow$ Plan $\rightarrow$ Code $\rightarrow$ Optimize).
-*   **Links:** [🔗 Visit & Collaborate on the Repo](https://github.com/mohan-prasad-d/Skill-Developer-community)
-
----
-
-## 💼 Featured Projects
-
-### 🌟 Rathika Elegance (My First Freelance Project)
-> A premium client solution designed to streamline digital workflows and presentation.
-
-*   **Key Features:** Highly responsive user experience, modern frontend elements, optimized loading speeds, and bespoke customized layout structure.
-*   **Tech Stack:** TypeScript, Modern CSS Frameworks, Vite
-*   **Links:** [🔗 GitHub Repo](https://github.com/mohan-prasad-d/Rathika_Elegance_)
-
----
-
-### 🤖 Plant Disease Detector (My First AI Model)
-> Intelligent computer-vision system capable of diagnosing crop and plant health risks automatically.
-
-*   **Key Features:** Deep Learning image dataset analysis, high precision accuracy matrix, automated classification, and user-friendly interface.
-*   **Tech Stack:** Python, Machine Learning Libraries, Data Science Tools
-*   **Links:** [🔗 GitHub Repo](https://github.com/mohan-prasad-d/Plant-disease-detector--AI)
-
----
-
-### 🎵 Melos Music Player
-> Modern Music Streaming App built with modern web technologies.
-
-*   **Key Features:** Advanced Music Playback, Playlist Management, Smart Search, Favorites Tracking, YouTube Integration, and Fully Mobile Responsive design.
-*   **Tech Stack:** React 18, TypeScript, Tailwind CSS, Vite
-*   **Links:** [🔗 GitHub Repo](https://github.com/mohan-prasad-d/Melos-Music-Player)
-
----
-
-### 💼 CRM App
-> Efficient Customer Relationship Management System to track business workflows.
-
-*   **Key Features:** Customer Profile Management, Interactive Data Analytics, Communication Logs Tracking, and Sales Pipeline Monitoring.
-*   **Tech Stack:** React, JavaScript, MySQL, Node.js
-*   **Links:** [🔗 GitHub Repo](https://github.com/mohan-prasad-d/Crm-app)
-
----
-
-### 📋 Attendance System
-> Smart Tracking & Analytics dashboard for institutional/corporate management.
-
-*   **Key Features:** Real-time Attendance Logging, Automated Reports & Deep Analytics, Real-time Alerts/Notifications, and Multi-device Mobile Access.
-*   **Tech Stack:** Flask, Python, MySQL, HTML, CSS, JavaScript
-*   **Links:** [🔗 GitHub Repo](https://github.com/mohan-prasad-d/Attendence-project)
-
----
-
-## 🏢 Organizations I'm Part Of
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![PyExpo2K26](https://img.shields.io/badge/PyExpo2K26-Community-blueviolet?style=for-the-badge&logo=github)](https://github.com/PyExpo2K26)
-[![AtelierTechWorks](https://img.shields.io/badge/AtelierTechWorks-Collaborator-orange?style=for-the-badge&logo=github)](https://github.com/ateliertechworks)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohan-prasad-d/mohan-prasad-d/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohan-prasad-d/mohan-prasad-d/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/mohan-prasad-d/mohan-prasad-d/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
----
-
-## 📊 GitHub Stats & Progress
+<br>
 
 <div align="center">
 
-![Mohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohan-prasad-d&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+📫 **Reach me:** [mohanprasadd2020@gmail.com](mailto:mohanprasadd2020@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mohan-prasad-d-701931377) · [WhatsApp](https://wa.me/919894876599)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-prasad-d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+<br>
 
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mohan-prasad-d&theme=tokyonight&hide_border=true&background=0d1117)
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohan-prasad-d&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
-
-</div>
-
----
-
-## ⭐ My Top Featured Repository
-
-<div align="center">
-
-[![Melos Music Player](https://github-readme-stats.vercel.app/api/pin/?username=mohan-prasad-d&repo=Melos-Music-Player&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/mohan-prasad-d/Melos-Music-Player)
-
-</div>
-
----
-
-## ✨ Inspirational Quote
-
-<div align="center">
-
-> _**"Keep learning, keep building, and never stop growing." 🚀**_
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-prasad-d-701931377)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanprasadd2020@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919894876599)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohan-prasad-d)
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my GitHub profile! 🎉
-
-![Profile Views](https://komarev.com/ghpvc/?username=mohan-prasad-d&color=blue&style=flat-square&label=Profile+Views)
-
-</div>
-
-<div align="center">
-
-_Made with ❤️ by **Mohan Prasad**_
-
-**"Every expert was once a beginner!"** 💪
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6ee2f5,50:9694fa,100:8993ea&height=6&section=footer" width="100%">
 
 </div>
